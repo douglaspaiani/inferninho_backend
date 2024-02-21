@@ -1,0 +1,11 @@
+{
+  "name": "inferninho_backend",
+  "version": "1.0.0",
+  "description": "Backend from Inferninho App by Douglas Paiani",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Paiani",
+  "license": "ISC"
+}
